@@ -1,0 +1,60 @@
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,event,year_start,year_end,weight,description,ApproxYear
+,,,,,,,,,Exodus,-1446,-1446,1,Exodus from Egypt,-1446
+,,,,,,,,,Wilderness,-1446,-1406,1,40 years wandering,-1426
+,,event,year_start,year_end,weight,description,ApproxYear,,Conquest,-1406,-1375,1,Joshua's conquest,-1390.5
+,,Exodus,-1446,-1446,1,Exodus from Egypt,-1446,,Judges,-1375,-1050,0.8,Judges period,-1212.5
+,,Wilderness,-1446,-1406,1,40 years wandering,-1426,,Saul,-1050,-1010,1,King Saul,-1030
+,,Conquest,-1406,-1375,1,Joshua's conquest,-1390.5,,David,-1010,-970,1,King David,-990
+,,Judges,-1375,-1050,0.8,Judges period,-1212.5,,Solomon,-970,-930,1,King Solomon,-950
+,,Saul,-1050,-1010,1,King Saul,-1030,,Temple_Built,-957,-957,1,First Temple,-957
+,,David,-1010,-970,1,King David,-990,,Kingdom_Split,-930,-930,1,Israel/Judah split,-930
+,,Solomon,-970,-930,1,King Solomon,-950,,Elijah,-875,-850,0.7,Prophet Elijah,-862.5
+,,Temple_Built,-957,-957,1,First Temple,-957,,Elisha,-850,-800,0.7,Prophet Elisha,-825
+,,Kingdom_Split,-930,-930,1,Israel/Judah split,-930,,Assyrian_Crisis,-722,-722,1,Fall of Israel,-722
+,,Elijah,-875,-850,0.7,Prophet Elijah,-862.5,,Hezekiah,-715,-686,1,Reform king,-700.5
+,,Elisha,-850,-800,0.7,Prophet Elisha,-825,,Isaiah,-740,-700,0.8,Major prophet,-720
+,,Assyrian_Crisis,-722,-722,1,Fall of Israel,-722,,Jeremiah,-627,-586,1,Temple warning,-606.5
+,,Hezekiah,-715,-686,1,Reform king,-700.5,,Exile,-586,-586,1,Babylonian exile,-586
+,,Isaiah,-740,-700,0.8,Major prophet,-720,,Ezekiel,-593,-571,1,Exile prophet,-582
+,,Jeremiah,-627,-586,1,Temple warning,-606.5,,Daniel,-605,-536,1,Court prophet,-570.5
+,,Exile,-586,-586,1,Babylonian exile,-586,,Cyrus_Decree,-539,-539,1,Persian return,-539
+,,Ezekiel,-593,-571,1,Exile prophet,-582,,Temple_Return,-538,-537,1,Zerubbabel,-537.5
+,,Daniel,-605,-536,1,Court prophet,-570.5,,Esther,-483,-473,1,Purim story,-478
+,,Cyrus_Decree,-539,-539,1,Persian return,-539,,Malachi,-430,-420,1,Last OT prophet,-425
+,,Temple_Return,-538,-537,1,Zerubbabel,-537.5,,Alexander,-332,-332,0.5,Greek conquest,-332
+,,Esther,-483,-473,1,Purim story,-478,,Antiochus,-175,-164,1,Maccabean crisis,-169.5
+,,Malachi,-430,-420,1,Last OT prophet,-425,,Maccabean_Revolt,-167,-164,1,Hanukkah,-165.5
+,,Alexander,-332,-332,0.5,Greek conquest,-332,,Herod_Temple,-20,-20,0.5,Herod rebuilds,-20
+,,Antiochus,-175,-164,1,Maccabean crisis,-169.5,,John_Baptist,27,30,0.8,Forerunner,28.5
+,,Maccabean_Revolt,-167,-164,1,Hanukkah,-165.5,,JESUS_CLUSTER,30,30,1,Ministry/Crucifixion/Resurrection,30
+,,Herod_Temple,-20,-20,0.5,Herod rebuilds,-20,,Pentecost,30,30,0.5,Holy Spirit,30
+,,John_Baptist,27,30,0.8,Forerunner,28.5,,Stephen,34,34,0.6,First martyr,34
+,,JESUS_CLUSTER,30,30,1,Ministry/Crucifixion/Resurrection,30,,Damascus,34,34,1,Paul conversion,34
+,,Pentecost,30,30,0.5,Holy Spirit,30,,Peter_Cornelius,40,40,0.7,Gentiles,40
+,,Stephen,34,34,0.6,First martyr,34,,James_Martyred,44,44,0.6,Apostle death,44
+,,Damascus,34,34,1,Paul conversion,34,,Council_Jerusalem,49,49,1,Gentile decision,49
+,,Peter_Cornelius,40,40,0.7,Gentiles,40,,Paul_Missions,50,60,0.8,3 missionary journeys,55
+,,James_Martyred,44,44,0.6,Apostle death,44,,Nero_Persecution,64,64,0.7,Roman persecution,64
+,,Council_Jerusalem,49,49,1,Gentile decision,49,,Temple_Destroyed,70,70,1,2nd Temple falls,70
+,,Paul_Missions,50,60,0.8,3 missionary journeys,55,,Jerusalem_Fall,70,70,1,City destroyed,70
+,,Nero_Persecution,64,64,0.7,Roman persecution,64,,Revelation,95,95,0.5,John's vision,95
+,,Temple_Destroyed,70,70,1,2nd Temple falls,70,,,,,,,
+,,Jerusalem_Fall,70,70,1,City destroyed,70,,,,,,,
+,,Revelation,95,95,0.5,John's vision,95,,,,,,,

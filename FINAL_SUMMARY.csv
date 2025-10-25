@@ -1,0 +1,1 @@
+﻿"metric,value z_score,8.97 p_value,1.7e-19 controls_total,411 observed_30_75,11.6 expected_30_75,2.7 neighbor_minus75_0,z=0.71 neighbor_75_100,z=0.78 roman_z,0.41 han_z,0.19 greek_z,0.67 exceedance_bible,0.00% exceedance_roman,28% exceedance_han,41% exceedance_greek,19% mc_draws,10000 prereg_date,2025-10-15"

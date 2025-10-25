@@ -1,0 +1,13 @@
+name: approach_contact_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.22
+  - pandas>=1.5
+  - matplotlib>=3.6
+  - scipy>=1.9
+  - jupyterlab
+  - pip
+  - pip:
+      - notebook
