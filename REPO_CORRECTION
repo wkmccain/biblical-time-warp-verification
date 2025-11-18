@@ -1,0 +1,12 @@
+# Repository Correction Note (November 18, 2025)
+
+A previous commit accidentally overwrote the preregistered output files with test/inflated values (warp r â‰ˆ 0.958).
+
+This has been fixed. The correct, authenticated preregistered results are:
+
+- Warp (fixed tâ˜… = 33 CE): r â‰ˆ 0.768
+- Linear best: r â‰ˆ 0.693â€“0.73
+- Free-search maximum: exactly 33 CE (r â‰ˆ 0.768)
+
+These match the official preregistered analysis on OSF:  
+https://doi.org/10.17605/OSF.IO/EXYWU
